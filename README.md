@@ -9,6 +9,7 @@
   <p>Have a great day! </p>
   
   <p>ChingYi P.C</p>
+ <a href='http://chingyipc.com/'>http://chingyipc.com/</a>
   
 
 <!---
